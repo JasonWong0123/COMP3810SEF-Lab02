@@ -1,0 +1,13 @@
+{
+  "name": "!!!YOUR FULL NAME",
+  "version": "1.0.0",
+  "author": "YOURSID@live.hkmu.edu.hk",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+	"nodemon":"*",    
+	"express": "*",
+        "mongoose": "^8.4.3"
+  }
+}
